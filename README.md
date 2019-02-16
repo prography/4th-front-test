@@ -23,3 +23,7 @@ Repository 이름은 prography-front 로 생성하여 작업해 주시면 됩니
 - Wix, Wordpress 등의 서비스나 프로토타입 툴을 이용하시면 안됩니다. html, css, js 를 이용하여 직접 페이지를 완성해주세요!
 - WrapBootstrap 등에서 유/무료 템플릿을 다운로드 받아 사용하지 말아주세요. 
 - 만약 Vue.js나 React 등을 이용하여 개발하는 경우, localhost build를 위한 절차를 repository의 README.md에 명시 해 주세요.
+
+
+## 기한은 어떻게 되나요?
+- 2월 21일(목) 자정까지 완료해주셔야 합니다!. 즉, 2월 21일(목) 자정의 Commit 까지만 인정이 됩니다! 기한을 엄수해주세요!!
